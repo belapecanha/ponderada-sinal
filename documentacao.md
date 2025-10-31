@@ -36,7 +36,8 @@
 <img src="assets/sistema-completo.jpg" width="500">
 
 ### Vídeo do funcionamento geral do projeto
-link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer6qn1JE?feature=share
+link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer6qn1JE?feature=share 
+<br>
 *O código do projeto está dentro da pasta src, o nome do arquivo é proj.h*
 
 ### Avaliação em pares
