@@ -37,6 +37,7 @@
 
 ### Vídeo do funcionamento geral do projeto
 link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer6qn1JE?feature=share
+*O código do projeto está dentro da pasta src, o nome do arquivo é proj.h*
 
 ### Avaliação em pares
 #### Avaliação Luana Lima
@@ -54,4 +55,3 @@ link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer
 |Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)|2,9|Adicionar comentários|
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código|1||
 
-*O código do projeto está dentro da pasta src,o nome é proj.h*
