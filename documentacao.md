@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Depois, os 3 resistores de 220V devem ser colocados com uma perna na linha (escolha 3 diferentes, uma para cada resistor) que deseja e a outra na coluna azul que indica negativo. O uso desses resistores é necessário para evitar que algum LED queime devido a receber uma corrente mais alta do que ele aguenta. Para que a coluna negativa funcione, será necessário que seja usado um cabo jumper macho-macho, com um lado colocado em qualquer buraco da respectiva coluna da protoboard e o outro no pino GND no Arduino Uno. 
 <img src="assets/protoboard.jpg" width="400">
 
-&nbsp;&nbsp;&nbsp;&nbsp;Para completar o circuito, falta somente usar 3 cabos macho-fêmea (um para cada led) e plugar a parte feminina dos fios nos respectivos leds e a parte masculina nas mesmas linhas que foram colocados os resistores, garantindo que cada led tenha a perna negativa conectada ao seu respectivo resistor por uma coluna exclusiva e a positiva ligada ao pino correspondente. 
+&nbsp;&nbsp;&nbsp;&nbsp;Para fechar o circuito, falta somente usar 3 cabos macho-fêmea (um para cada led) e plugar a parte feminina dos fios nos respectivos leds e a parte masculina nas mesmas linhas que foram colocados os resistores, garantindo que cada led tenha a perna negativa conectada ao seu respectivo resistor por uma coluna exclusiva e a positiva ligada ao pino correspondente.
 
 **Cheque novamente as imagens acima para completo entendimento**
 
