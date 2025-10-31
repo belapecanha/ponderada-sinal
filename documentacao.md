@@ -17,11 +17,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Em seguida, é necessário conectar 3 fios macho-femea aos leds e ao arduino. Conecte a perna positiva dos leds no lado femea do fio e o lado macho a porta que quer usar em seu código, no meu caso optei pelas portas 13, 12 e 8 para os leds, verde, amarelo e vermelho, respectivamente. Você pode optar pela porta que desejar, porém cheque a pinagem da placa para garantir que o pino que escolheu seja compatível com os leds. Isso, permitirá que os leds sejam controlados pelo código posteriormente, lá, os leds serão referenciados pinos escolhidos, então essa parte é essencial. 
 
-![Arduino](assets/arduino.jpg)
+<img src="assets/arduino.jpg" width="400">
 
-&nbsp;&nbsp;&nbsp;&nbsp;Depois, os 3 resistores de 220V devem ser colocados com uma perna na linha (escolha 3 diferentes, uma para cada resistor) que deseja e a outra na coluna azul que indica negativo. O uso desses resistores é necessário para evitar que algum led queime devido a receber uma corrente mais alta que ele aguenta. Para que a coluna negativa funcione será necessário que seja usado um cabo jumper macho-macho com um lado colocado em qualquer buraco da respectiva coluna da protoboard e o outro no pino GND no Arduino uno. 
+&nbsp;&nbsp;&nbsp;&nbsp;Depois, os 3 resistores de 220V devem ser colocados com uma perna na linha (escolha 3 diferentes, uma para cada resistor) que deseja e a outra na coluna azul que indica negativo. O uso desses resistores é necessário para evitar que algum led queime devido a receber uma corrente mais alta que ele aguanta. Para que a coluna negativa funcione será necessário que seja usado um cabo jumper macho-macho com um lado colocado em qualquer buraco da respectiva coluna da protoboard e o outro no pino GND no Arduino uno. 
 
-![Protoboard](assets/protoboard.jpg)
+<img src="assets/protoboard.jpg" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Para completar o circuito falta somente usar 3 cabos macho-femea (um para cada led) e plugar a parte feminina dos fios nos respectivos leds e a parte masculina nas mesmas linhas que foram colocados os resistores, garantindo que cada led seja tenha a perna negativa conectada ao seu respectivo resistor por uma coluna exclusiva e a postiva ligada ao pino correspondente. 
 
@@ -31,7 +31,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;No fim o sistema completo deve ter essa cara:
 
-![Sistema Completo](assets/sistema-completo.jpg)
+<img src="assets/sistema-completo.jpg" width="500">
 
 ### Vídeo do funcionamento geral do projeto
 link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer6qn1JE?feature=share
