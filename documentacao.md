@@ -53,3 +53,5 @@ link para o vídeo de fucnionamento do projeto: https://youtube.com/shorts/dDCer
 |Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo|3||
 |Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)|2,9|Adicionar comentários|
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código|1||
+
+*O código do projeto está dentro da pasta src,o nome é proj.h*
