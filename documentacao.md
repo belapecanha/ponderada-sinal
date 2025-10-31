@@ -14,6 +14,8 @@
 
 ### Montagem
 &nbsp;&nbsp;&nbsp;&nbsp;Começando pela montagem dos fios, é preciso encaixar os leds no porta led de mdf garantindo que os leds estejam alinhados quanot aos lados positivos e negativos para que a montagem seja mais simples e que erros de polaridade sejam evitados. Essa montagem não é estritamente necessária para o funcionamento do sinal, porém o deixa mais parecido com sua aparencia real.
+<img src="assets/led-vermelho.jpg" width="400">
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;Em seguida, é necessário conectar 3 fios macho-femea aos leds e ao arduino. Conecte a perna positiva dos leds no lado femea do fio e o lado macho a porta que quer usar em seu código, no meu caso optei pelas portas 13, 12 e 8 para os leds, verde, amarelo e vermelho, respectivamente. Você pode optar pela porta que desejar, porém cheque a pinagem da placa para garantir que o pino que escolheu seja compatível com os leds. Isso, permitirá que os leds sejam controlados pelo código posteriormente, lá, os leds serão referenciados pinos escolhidos, então essa parte é essencial. 
 
